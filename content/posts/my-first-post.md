@@ -8,3 +8,6 @@ draft = false
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+Всем привет!
+https://avatars.mds.yandex.net/i?id=c318af1685e78a1172c4454bdc0f5332acfb7930-6960551-images-thumbs&n=13
